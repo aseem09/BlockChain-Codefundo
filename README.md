@@ -7,6 +7,6 @@ Hence in order to curb such problems we plan to automatically create and store e
 This will cater to the following problems:
   1) Existence of Multiple Voter Cards of a single person
   2) Names being left out in Voter's List
-  3) Human involvement in voter ids generation.
+  3) Errors due to human involvement in voter IDs generation.
   
 
